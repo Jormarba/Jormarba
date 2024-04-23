@@ -94,7 +94,8 @@
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jorge's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jormarba&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-
+<br/>
+  &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jormarba&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Jormarba" height="192px"/>
   <br/>
   </p>
